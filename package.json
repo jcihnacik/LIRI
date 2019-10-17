@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/jcihnacik/LIRI/issues"
   },
-  "homepage": "https://github.com/jcihnacik/LIRI#readme"
+  "homepage": "https://github.com/jcihnacik/LIRI#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fs": "0.0.1-security",
+    "keys": "^0.1.2",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.0"
+  }
 }
